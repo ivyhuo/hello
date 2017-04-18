@@ -1,3 +1,3 @@
 # hello
-try github
+try 
 record your first changes on Github
